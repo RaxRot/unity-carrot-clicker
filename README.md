@@ -10,12 +10,12 @@ Progress is saved between sessions.
 
 ## Screenshots
 
-![Gameplay](Screenshots/main-gameplay.png)
-![Shop](Screenshots/shop-ui.png)
+![Gameplay](Screenshots/main.png)
+![Resume](Screenshots/resume.png)
 
 ---
 
-## Features
+## Features~~~~
 
 - Event-driven currency system
 - Physics2D raycast input
