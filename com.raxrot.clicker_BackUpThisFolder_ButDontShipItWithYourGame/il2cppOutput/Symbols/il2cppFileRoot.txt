@@ -1,0 +1,1 @@
+C:\NET\UnityProjects\TGCarrotClicker\Library\Bee\artifacts\Android\il2cppOutput\cpp
